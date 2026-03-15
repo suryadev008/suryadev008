@@ -39,7 +39,7 @@
   "integrations" : ["Bambuser", "Klevu", "Boxi", "Partnerize", "Google SSO"],
   "server" : ["AWS", "GCP", "Digital Ocean", "CPanel"],
   "databases"    : ["MySQL", "PostgreSQL"],
-  "askMeAbout"   : ["BigCommerce Backend", "Shopify Backend", "Laravel", "REST APIs", "3rd Party Integrations",GraphQL],
+  "askMeAbout"   : ["BigCommerce Backend", "Shopify Backend", "Laravel", "REST APIs", "3rd Party Integrations","GraphQL"],
   "funFact"      : "I've shipped more storefronts than most devs have debugged 🛒"
 }
 ```
@@ -50,11 +50,9 @@
 
 ## 🌐 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
-[![Gmail](https://img.shields.io/badge/Gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/suraj-das)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%230ea5e9.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio.com)
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thesuryadev)
+[![Gmail](https://img.shields.io/badge/Gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ram262017@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/suryadev008)
 </div>
 
 ---
