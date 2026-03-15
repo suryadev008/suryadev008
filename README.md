@@ -37,8 +37,9 @@
     "laravel"    : "5+ projects"
   },
   "integrations" : ["Bambuser", "Klevu", "Boxi", "Partnerize", "Google SSO"],
+  "server" : ["AWS", "GCP", "Digital Ocean", "CPanel"],
   "databases"    : ["MySQL", "PostgreSQL"],
-  "askMeAbout"   : ["BigCommerce Stencil", "Shopify Liquid", "Laravel", "REST APIs", "3rd Party Integrations"],
+  "askMeAbout"   : ["BigCommerce Backend", "Shopify Backend", "Laravel", "REST APIs", "3rd Party Integrations",GraphQL],
   "funFact"      : "I've shipped more storefronts than most devs have debugged 🛒"
 }
 ```
