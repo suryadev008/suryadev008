@@ -10,9 +10,9 @@
 
 **E-Commerce & Full Stack Developer · 5+ Years Experience · DIT Interactive, Ahmedabad**
 
-[![Profile Views](https://komarev.com/ghpvc/?username=suraj-das&style=flat-square&color=0ea5e9&label=profile+views)](https://github.com/suraj-das)
+[![Profile Views](https://komarev.com/ghpvc/?username=suryadev008&style=flat-square&color=0ea5e9&label=profile+views)](https://github.com/suryadev008)
 &nbsp;
-[![GitHub followers](https://img.shields.io/github/followers/suraj-das?style=flat-square&color=0ea5e9&label=followers)](https://github.com/suraj-das?tab=followers)
+[![GitHub followers](https://img.shields.io/github/followers/suryadev008?style=flat-square&color=0ea5e9&label=followers)](https://github.com/suryadev008?tab=followers)
 &nbsp;
 ![Experience](https://img.shields.io/badge/experience-5%2B_years-0ea5e9?style=flat-square)
 &nbsp;
@@ -37,9 +37,10 @@
     "laravel"    : "5+ projects"
   },
   "integrations" : ["Bambuser", "Klevu", "Boxi", "Partnerize", "Google SSO"],
-  "server" : ["AWS", "GCP", "Digital Ocean", "CPanel"],
+  "cloud"        : ["AWS", "GCP", "Digital Ocean", "CPanel"],
   "databases"    : ["MySQL", "PostgreSQL"],
-  "askMeAbout"   : ["BigCommerce Backend", "Shopify Backend", "Laravel", "REST APIs", "3rd Party Integrations","GraphQL"],
+  "devOps"       : ["GitHub Actions", "Jira Sprint", "Slack", "Git"],
+  "askMeAbout"   : ["BigCommerce Backend", "Shopify Backend", "Laravel", "REST APIs", "3rd Party Integrations", "GraphQL"],
   "funFact"      : "I've shipped more storefronts than most devs have debugged 🛒"
 }
 ```
@@ -53,6 +54,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thesuryadev)
 [![Gmail](https://img.shields.io/badge/Gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ram262017@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/suryadev008)
+
 </div>
 
 ---
@@ -95,13 +97,20 @@
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-0ea5e9?style=flat-square&logo=fastapi&logoColor=white)
-
-</td>
-<td valign="top" width="50%">
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
 
 ### 🗄️ Databases
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+
+</td>
+<td valign="top" width="50%">
+
+### ☁️ Cloud & Servers
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?style=flat-square&logo=digitalocean&logoColor=white)
+![cPanel](https://img.shields.io/badge/cPanel-FF6C2C?style=flat-square&logo=cpanel&logoColor=white)
 
 ### 🔌 3rd Party Integrations
 ![Bambuser](https://img.shields.io/badge/Bambuser-FF6B35?style=flat-square&logo=livestream&logoColor=white)
@@ -110,12 +119,16 @@
 ![Partnerize](https://img.shields.io/badge/Partnerize-00B398?style=flat-square&logo=affiliatetheme&logoColor=white)
 ![Google SSO](https://img.shields.io/badge/Google_SSO-4285F4?style=flat-square&logo=google&logoColor=white)
 
-### 🧰 Dev Tools
+### 🚀 DevOps & Collaboration
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira_Sprint-0052CC?style=flat-square&logo=jira&logoColor=white)
+![Slack](https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+### 🧰 Dev Tools
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
 
 </td>
 </tr>
@@ -131,7 +144,7 @@
 bigcommerce:
   projects : 25+
   skills   : Stencil Framework, Handlebars, BigCommerce APIs, Custom Themes,
-             Headless Commerce, Storefront API, Webhooks, Channel Manager
+             Headless Commerce, Storefront API, Webhooks, Channel Manager, GraphQL
 
 shopify:
   projects : 5+
@@ -150,10 +163,17 @@ integrations_delivered:
   - Partnerize # Partner / Affiliate Marketing
   - Google SSO # OAuth2 Authentication
 
+cloud_and_devops:
+  - AWS            # EC2, S3, Lambda, CloudFront
+  - GCP            # Cloud Run, Cloud Storage, Firebase
+  - GitHub Actions # CI/CD Pipelines & Automation
+  - Jira Sprint    # Agile Project Management
+  - Slack          # Team Communication & Bot Integrations
+
 current_role:
   company  : DIT Interactive
   location : Ahmedabad, India
-  focus    : E-Commerce Development & 3rd Party Integrations
+  focus    : E-Commerce Development, Cloud Deployments & 3rd Party Integrations
 ```
 
 ---
@@ -162,14 +182,14 @@ current_role:
 
 <div align="center">
 
-<img height="180px" src="https://github-readme-stats.vercel.app/api?username=suraj-das&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=0ea5e9&icon_color=0ea5e9&text_color=8b949e&ring_color=0ea5e9&rank_icon=percentile" />
-<img height="180px" src="https://github-readme-streak-stats.herokuapp.com/?user=suraj-das&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=0ea5e9&ring=0ea5e9&fire=f59e0b&currStreakLabel=0ea5e9&sideLabels=8b949e&dates=8b949e&currStreakNum=e6edf3&sideNums=e6edf3" />
+<img height="180px" src="https://github-readme-stats.vercel.app/api?username=suryadev008&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=0ea5e9&icon_color=0ea5e9&text_color=8b949e&ring_color=0ea5e9&rank_icon=percentile" />
+<img height="180px" src="https://github-readme-streak-stats.herokuapp.com/?user=suryadev008&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=0ea5e9&ring=0ea5e9&fire=f59e0b&currStreakLabel=0ea5e9&sideLabels=8b949e&dates=8b949e&currStreakNum=e6edf3&sideNums=e6edf3" />
 
 </div>
 
 <div align="center">
 
-<img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suraj-das&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=0ea5e9&text_color=8b949e&langs_count=8&card_width=320" />
+<img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suryadev008&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=0ea5e9&text_color=8b949e&langs_count=8&card_width=320" />
 
 </div>
 
@@ -179,7 +199,7 @@ current_role:
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=suraj-das&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&column=7" />
+<img src="https://github-profile-trophy.vercel.app/?username=suryadev008&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&column=7" />
 
 </div>
 
@@ -189,7 +209,7 @@ current_role:
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=suraj-das&bg_color=0d1117&color=0ea5e9&line=0ea5e9&point=f59e0b&area=true&area_color=0ea5e9&hide_border=true&radius=6" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=suryadev008&bg_color=0d1117&color=0ea5e9&line=0ea5e9&point=f59e0b&area=true&area_color=0ea5e9&hide_border=true&radius=6" width="100%"/>
 
 </div>
 
@@ -200,9 +220,9 @@ current_role:
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/suraj-das/suraj-das/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/suraj-das/suraj-das/output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/suraj-das/suraj-das/output/github-contribution-grid-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/suryadev008/suryadev008/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/suryadev008/suryadev008/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/suryadev008/suryadev008/output/github-contribution-grid-snake.svg" />
 </picture>
 
 </div>
@@ -215,6 +235,6 @@ current_role:
 
 *"Every storefront I ship is a business empowered."*
 
-**© 2025 [Suraj Das](https://github.com/suraj-das) · Built with 5 years of craft ⚡**
+**© 2025 [Suraj Das](https://github.com/suryadev008) · Built with 5 years of craft ⚡**
 
 </div>
